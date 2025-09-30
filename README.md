@@ -1,5 +1,7 @@
 # Description
 
+## Jano - Creative Multipurpose Bootstrap 5 Template by CreativeGigs
+
 All images are only used for Preview purposes. They are not part of the templates or included in the final purchase files.
 
 Jano is a multi-purpose, powerful, beautiful and high-performance website template. The template comes with 13 Home pages & 51+ multi-page demos and variants. Featuring stunning plugins, ideas, and designs for a modern website. You will easily find a stunning design that suits your needs. Rogan is websites which is built with the Twitter Bootstrap (version: 5.1.3). This template is suitable for corporate, agencies, freelancers, individuals as well as any type of business to showcase their company history, services, works, portfolio, and projects most creatively and professionally. In a few words, it is a powerful, easy-to-use multi-purpose template.
